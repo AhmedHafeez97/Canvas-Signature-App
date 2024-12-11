@@ -1,2 +1,1 @@
-Simple Signature App that allows a user to save a freehand signature usig mouse pointer on a Canvas. 
-
+Simple JS Application that allows user to create, store and retrieve signatures using Canvas
